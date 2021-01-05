@@ -1,9 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-$fileBlacklist = [
-
-];
+$fileBlacklist = []; // todo
 
 inputUrl:
 echo "Enter the file's URL:\r\n";
